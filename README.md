@@ -16,4 +16,6 @@ just rust-fuzz
 **Run contract tests**
 ```sh
 just sol-test
+
+This project is a demonstration of blockchain technology and smart contract integration.
 ```
